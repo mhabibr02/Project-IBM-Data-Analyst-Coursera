@@ -50,7 +50,6 @@ to enhance their expertise.
     for job interviews, including answering technical questions and case studies.
 
 ### Course Result : 
-
 <p align="center">
   <img src="/Images/Bar_Chart.png" width="400" height="250" style="display:inline-block; margin-right: 10px;">
   <img src="/Images/Bubble.png" width="400" height="250" style="display:inline-block;">
@@ -68,3 +67,6 @@ to enhance their expertise.
   <img src="/Images/YearlyReportgraphs.png" width="400" height="250" style="display:inline-block;">
 </p> 
 
+### Remark
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on [Email](azizhabibrahim@gmail.com) and 
+[LinkedIn](https://www.linkedin.com/in/mhabibr02/)
