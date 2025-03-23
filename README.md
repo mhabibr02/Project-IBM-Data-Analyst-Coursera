@@ -51,19 +51,19 @@ to enhance their expertise.
 ### Course Result : 
 
 <p align="center">
-  <img src="/Images/Bar_Chart.png" width=45%" style="display:inline-block; margin-right: 10px;">
-  <img src="/Images/Bubble.png" width=45%" style="display:inline-block;">
+  <img src="/Images/Bar_Chart.png" width="500" height="300" style="display:inline-block; margin-right: 10px;">
+  <img src="/Images/Bubble.png" width="500" height="300" style="display:inline-block;">
 </p>
 <p align="center">
-  <img src="/Images/Line_Plot_1.png" width=45%" style="display:inline-block; margin-right: 10px;">
-  <img src="/Images/Line_Plot_2.png" width=45%" style="display:inline-block;">
+  <img src="/Images/Line_Plot_1.png" width="500" height="300" style="display:inline-block; margin-right: 10px;">
+  <img src="/Images/Line_Plot_2.png" width="500" height="300" style="display:inline-block;">
 </p> 
 <p align="center">
-  <img src="/Images/Pie_1.png" width=45%" style="display:inline-block; margin-right: 10px;">
-  <img src="/Images/Pie_2.png" width=45%" style="display:inline-block;">
+  <img src="/Images/Pie_1.png" width="500" height="300" style="display:inline-block; margin-right: 10px;">
+  <img src="/Images/Pie_2.png" width="500" height="300" style="display:inline-block;">
 </p> 
 <p align="center">
-  <img src="/Images/RecessionReportgraphs.png" width=45%" style="display:inline-block; margin-right: 10px;">
-  <img src="/Images/YearlyReportgraphs.png" width=45%" style="display:inline-block;">
+  <img src="/Images/RecessionReportgraphs.png" width="500" height="300" style="display:inline-block; margin-right: 10px;">
+  <img src="/Images/YearlyReportgraphs.png" width="500" height="300" style="display:inline-block;">
 </p> 
 
