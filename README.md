@@ -9,19 +9,19 @@ to enhance their expertise.
 ### Course Highlights :
 1. [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics/) <br>
    This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions.
-   You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.
+   You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining. 
 3. [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm/) <br>
    This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with
    spreadsheets and their usage in the process of analyzing data. It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions
    for you to apply and practice on a live spreadsheet.
 5. [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos/) <br>
-   This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards.
+   This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. Here are the projects I,ve done, tap to [view](https://github.com/mhabibr02/Project-IBM-Data-Analyst-Coursera/blob/main/Assignment/CarSalesByModelDashboard.pdf).
 6. [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai/) <br>
    Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most
    popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries.
 8. [Python Project for Data Science](https://www.coursera.org/learn/python-for-applied-data-science-ai/) <br>
    This mini-course is intended to for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where
-   you will develop a simple dashboard using Python.
+   you will develop a simple dashboard using Python. Here are the projects I,ve done, tap to [view](https://github.com/mhabibr02/Project-IBM-Data-Analyst-Coursera/blob/main/Assignment/Final%20Project%20Python%20for%20Data%20Science.ipynb).
 10. [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science/) <br>
     The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you
     started with performing SQL access in a data science environment.
@@ -32,11 +32,12 @@ to enhance their expertise.
     - Data frame manipulation
     - Summarizing the Data
     - Building machine learning Regression models
-    - Building data pipelines
+    - Building data pipelines <br>
+    Here are the projects I,ve done, tap to [view](https://github.com/mhabibr02/Project-IBM-Data-Analyst-Coursera/blob/main/Assignment/Final%20Project%20Data%20Analysis%20with%20Python.ipynb).
 13. [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization/) <br>
     The main goal of this Data Visualization with Python course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes
     sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely
-    Matplotlib, Seaborn, and Folium.
+    Matplotlib, Seaborn, and Folium. Here are the projects I,ve done, tap to [view](https://github.com/mhabibr02/Project-IBM-Data-Analyst-Coursera/blob/main/Assignment/Final%20Project%20Data%20Visualization%20with%20Python.ipynb).
 15. [IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project/home/module/1) <br>
     In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate.
     You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed
