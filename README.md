@@ -1,5 +1,5 @@
 # Project IBM Data Analyst Coursera
-## Become a Data Analyst Through Self-Learning on Coursera
+## Dashboard Capstone
 
 ### Description :
 [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) is a comprehensive program designed to equip learners with essential 
