@@ -9,7 +9,11 @@ to enhance their expertise.
 ### Highlights :
 1. [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics/) <br>
    This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions.
-   You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining. 
+   You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining. <br>
+   
+   <p align="center">
+   <img src="/Certificate/Introduction to Data Analytics.jpg" height="400" weight="250">
+   </p>
 3. [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm/) <br>
    This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with
    spreadsheets and their usage in the process of analyzing data. It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions
