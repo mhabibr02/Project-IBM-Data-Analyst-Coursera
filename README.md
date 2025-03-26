@@ -35,7 +35,7 @@ to enhance their expertise.
    <p align="center">
    <img src="/Certificate/Python for Data Science, AI & Development.jpg" width="80%" height="30%">
    </p>
-5. [Python Project for Data Science](https://www.coursera.org/learn/python-for-applied-data-science-ai/) <br>
+5. [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science/) <br>
    This mini-course is intended to for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where
    you will develop a simple dashboard using Python. Here are the projects I,ve done, tap to [view](https://github.com/mhabibr02/Project-IBM-Data-Analyst-Coursera/blob/main/Assignment/Final%20Project%20Python%20for%20Data%20Science.ipynb).
    <p align="center">
