@@ -66,14 +66,14 @@ to enhance their expertise.
     <p align="center">
     <img src="/Certificate/Data Visualization with Python.jpg" width="80%" height="30%">
     </p>
-9. [IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project/home/module/1) <br>
+9. [IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project/) <br>
     In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate.
     You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed
     on real-world datasets.
     <p align="center">
     <img src="/Certificate/IBM Data Analyst Capstone Project.jpg" width="80%" height="30%">
     </p>
-10. [Generative AI: Enhance your Data Analytics Career](https://www.coursera.org/learn/generative-ai-enhance-your-data-analytics-career/home/module/1) <br>
+10. [Generative AI: Enhance your Data Analytics Career](https://www.coursera.org/learn/generative-ai-enhance-your-data-analytics-career/) <br>
     This course explores how generative AI can be used to improve efficiency and accuracy in data analysis. Participants will learn the basic concepts of generative AI, its applications
     in data analytics, and how to use it for automation and data-driven decision making.
 11. [Data Analyst Career Guide and Interview Preparation](https://www.coursera.org/learn/career-guide-and-interview-prep-for-data-analyst/) <br>
