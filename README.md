@@ -5,12 +5,12 @@
 <img src="/Certificate/IBM Data Analyst 1.jpg" width="80%" height="30%">
 </p>
 
-### Description :
+### Description
 [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) is a comprehensive program designed to equip learners with essential 
 data analysis skills. Offered by IBM on [Coursera](https://www.coursera.org/), this certificate covers key concepts and tools used in the data analysis field, making it ideal for beginners and professionals looking 
 to enhance their expertise.
    
-### Highlights :
+### Highlights
 1. [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics/) <br>
    This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions.
    You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining. 
@@ -80,7 +80,7 @@ to enhance their expertise.
     This course provides a step-by-step guide to entering the data analytics industry. Participants will learn how to create a compelling resume, build a strong portfolio, and prepare
     for job interviews, including answering technical questions and case studies.
 
-### Result : 
+### Result
 <p align="center">
   <img src="/Images/Bar_Chart.png" width="400" height="250" style="display:inline-block; margin-right: 10px;">
   <img src="/Images/Bubble.png" width="400" height="250" style="display:inline-block;">
