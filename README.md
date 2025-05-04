@@ -99,5 +99,5 @@ to enhance their expertise.
 </p> 
 
 ### Remark
-If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on [Email](azizhabibrahim@gmail.com) and 
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on [Email](mailto:azizhabibrahim@gmail.com) and 
 [LinkedIn](https://www.linkedin.com/in/mhabibr02/)
