@@ -6,7 +6,7 @@
 </p>
 
 ### Description
-[IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) is a comprehensive program designed to equip learners with essential 
+[IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst/) is a comprehensive program designed to equip learners with essential 
 data analysis skills. Offered by IBM on [Coursera](https://www.coursera.org/), this certificate covers key concepts and tools used in the data analysis field, making it ideal for beginners and professionals looking 
 to enhance their expertise.
    
